@@ -1,0 +1,2 @@
+# Flower-Classification-Computer-Vision-Project
+Flower Classification Computer Vision CNN, ResNet &amp; Deployment Using Gradio ==> In this use case we build model to classify the flower class or category using computer vision techniques such as CNN &amp; ResNet, after building those models, we can clearly see that ResNet model has improved validation accuracy which is close to 90%,but CNN has only 62%.
